@@ -1,11 +1,11 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/skanehira/go-cli-template?style=social)
-![GitHub](https://img.shields.io/github/license/skanehira/go-cli-template)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/skanehira/go-cli-template)
-![GitHub all releases](https://img.shields.io/github/downloads/skanehira/go-cli-template/total)
-![GitHub CI Status](https://img.shields.io/github/workflow/status/skanehira/go-cli-template/ci?label=CI)
-![GitHub Release Status](https://img.shields.io/github/workflow/status/skanehira/go-cli-template/Release?label=release)
+![GitHub Repo stars](https://img.shields.io/github/stars/jkdihenkar/go-hello?style=social)
+![GitHub](https://img.shields.io/github/license/jkdihenkar/go-hello)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkdihenkar/go-hello)
+![GitHub all releases](https://img.shields.io/github/downloads/jkdihenkar/go-hello/total)
+![GitHub CI Status](https://img.shields.io/github/workflow/status/jkdihenkar/go-hello/ci?label=CI)
+![GitHub Release Status](https://img.shields.io/github/workflow/status/jkdihenkar/go-hello/Release?label=release)
 
-# go-cli-template
+# go-hello
 This template is help you to quick implement some CLI using Go.
 
 This repository is contains bellow.

@@ -1,4 +1,4 @@
-module github.com/skanehira/go-cli-template
+module github.com/jkdihenkar/go-hello
 
 go 1.17
 
